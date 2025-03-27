@@ -1,20 +1,14 @@
 {
  "actions": [],
  "allow_rename": 1,
- "creation": "2025-03-27 19:20:03.182342",
+ "creation": "2025-03-28 00:21:10.974275",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "multiselect_field_column",
   "multi_select_field",
   "selected_field_row_table"
  ],
  "fields": [
-  {
-   "fieldname": "multiselect_field_column",
-   "fieldtype": "Column Break",
-   "label": "MultiSelect Field"
-  },
   {
    "fieldname": "multi_select_field",
    "fieldtype": "Table MultiSelect",
@@ -31,10 +25,10 @@
  "grid_page_length": 50,
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-03-27 19:55:05.331316",
+ "modified": "2025-03-28 00:22:30.730303",
  "modified_by": "Administrator",
  "module": "Interview",
- "name": "eval",
+ "name": "Add Group Users",
  "owner": "Administrator",
  "permissions": [
   {

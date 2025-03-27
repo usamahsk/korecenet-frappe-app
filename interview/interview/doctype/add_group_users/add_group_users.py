@@ -5,5 +5,5 @@
 from frappe.model.document import Document
 
 
-class eval(Document):
+class AddGroupUsers(Document):
 	pass
