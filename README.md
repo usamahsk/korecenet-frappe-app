@@ -31,3 +31,8 @@ Pre-commit is configured to use the following tools for checking and formatting 
 ### License
 
 mit
+
+### Demo
+
+[Screencast from 28-03-25 12_34_38 AM IST.webm](https://github.com/user-attachments/assets/a610b305-ec67-4e6a-9258-aaa3abd0c3f3)
+
